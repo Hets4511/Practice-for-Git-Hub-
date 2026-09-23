@@ -1,0 +1,16 @@
+{
+    "validUser":{
+        "email":"hdkotadiya92@gail.com",
+        "password":"Hets@4511"
+        },
+
+"invalidPassword":{
+    "email":"hdkotadiya92@gmail.com",
+    "password":"WrongPassword"
+},
+
+"invalidEmail":{
+    "email":"wrong@gmail.com",
+    "password":"Hets@4511"
+}
+}
